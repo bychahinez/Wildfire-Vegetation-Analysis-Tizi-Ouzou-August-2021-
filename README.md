@@ -1,4 +1,4 @@
-# >Wildfire Analysis: Tizi Ouzou (August 2021)
+# Wildfire Analysis: Tizi Ouzou (August 2021)
 This project uses Google Earth Engine and geemap in Google Colab to analyze wildfire impact and vegetation health in Tizi Ouzou, Algeria during August 2021. 
 # Project Overview
 This project analyzes and classifies burned vs. unburned areas caused by the August 2021 wildfires in Tizi Ouzou, Algeria using satellite imagery and machine learning.
