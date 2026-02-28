@@ -12,19 +12,19 @@ The result is an interactive map showing Burned vs Unburned Areas
 ## 📍 Tizi Ouzou, Algeria
 ## Wildfire period: August 20 – September 10, 2021
 
-#🛰️ Data Source
+# 🛰️ Data Source
 Satellite Imagery: European Space Agency Sentinel-2
 Dataset: Google Earth Engine – COPERNICUS/S2_SR_HARMONIZED
 
 # Spectral Indices Computed
 To improve burn detection accuracy, multiple indices were calculated:
-NBR – Normalized Burn Ratio (burn severity detection)
-NDVI – Vegetation health
-NDWI – Water/moisture detection
-MSAVI – Soil-adjusted vegetation index
-SWIR/NIR Ratio – Fire damage sensitivity
+•	NBR – Normalized Burn Ratio (burn severity detection)
+•	NDVI – Vegetation health
+•	NDWI – Water/moisture detection
+•	MSAVI – Soil-adjusted vegetation index
+•	SWIR/NIR Ratio – Fire damage sensitivity
 These indices enhance separability between burned and unburned surfaces.
 
-#Machine Learning Model
+# Machine Learning Model
 Algorithm: Random Forest
 100 trees
